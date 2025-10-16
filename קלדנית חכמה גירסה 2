@@ -1,0 +1,9 @@
+SmartTypingApp/
+│
+├─ index.html        (ממשק ראשי)
+├─ style.css         (עיצוב)
+├─ script.js         (JS – פונקציות חיתוך, OCR, תמלול, שמירה)
+├─ ocr.js            (מודול OCR באמצעות Tesseract.js)
+├─ transcribe.js     (מודול תמלול AI)
+├─ README.md
+└─ .gitignore
